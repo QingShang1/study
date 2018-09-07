@@ -3,9 +3,7 @@ package xxx;
 public class zzzzz {
 
 	public static void main(String[] args) {
-		System.out.println("ÓàÓÀ¿µ³ÔÊº");
-		System.out.println("ÇñµÆÃ÷+1");
-		System.out.println("cyµ½´ËÒ»ÓÎ");
-		System.out.println("Åí²©öÎÊÇ¸öÉµ×Ó");
+		System.out.println("ä½™æ°¸åº·åƒå±");
+		System.out.println("é‚±ç¯æ˜+1");
 	}
 }
